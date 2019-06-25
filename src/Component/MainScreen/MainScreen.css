@@ -1,0 +1,18 @@
+div.my-card {
+  margin: 0.5rem;
+}
+
+div.my-title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+div.title-holder {
+  margin-right: 0.5rem
+}
+
+div.date-holder {
+  margin-left: 0.5rem;
+  white-space: nowrap;
+}

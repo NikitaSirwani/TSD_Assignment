@@ -1,0 +1,27 @@
+li.my-list-item {
+    /* padding: 0rem 0rem 0rem 0.5rem; */
+    padding: 0.5rem;
+    display: flex;
+    
+    align-items: center;
+    justify-content: space-between;
+}
+
+.displayURL {
+    margin-left: 1em;
+    /* width: 15rem;
+    white-space: nowrap;
+    overflow: hidden;
+  text-overflow: ellipsis; */
+    cursor: pointer
+}
+
+
+.displayURL-parent {
+    
+    margin-right: 0.5rem
+}
+
+.button-parent {
+    margin-left: 0.5rem
+}

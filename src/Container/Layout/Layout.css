@@ -1,0 +1,9 @@
+nav.my-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+div.my-content {
+  padding: 1rem 0rem;
+}
